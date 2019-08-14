@@ -1,0 +1,7 @@
+C:\Users\francisco.cordovafgk\source\repos\IteratorVehiculos\IteratorVehiculos\bin\Debug\IteratorVehiculos.exe.config
+C:\Users\francisco.cordovafgk\source\repos\IteratorVehiculos\IteratorVehiculos\bin\Debug\IteratorVehiculos.exe
+C:\Users\francisco.cordovafgk\source\repos\IteratorVehiculos\IteratorVehiculos\bin\Debug\IteratorVehiculos.pdb
+C:\Users\francisco.cordovafgk\source\repos\IteratorVehiculos\IteratorVehiculos\obj\Debug\IteratorVehiculos.csprojAssemblyReference.cache
+C:\Users\francisco.cordovafgk\source\repos\IteratorVehiculos\IteratorVehiculos\obj\Debug\IteratorVehiculos.csproj.CoreCompileInputs.cache
+C:\Users\francisco.cordovafgk\source\repos\IteratorVehiculos\IteratorVehiculos\obj\Debug\IteratorVehiculos.exe
+C:\Users\francisco.cordovafgk\source\repos\IteratorVehiculos\IteratorVehiculos\obj\Debug\IteratorVehiculos.pdb
