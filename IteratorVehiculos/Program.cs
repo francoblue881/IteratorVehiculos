@@ -22,7 +22,10 @@ namespace IteratorVehiculos
       while (iterator.QuedanElementos() )
       {
         Vehiculo v = iterator.Siguiente();
-        Console.WriteLine(v.Marca + " " + v.Modelo + " fabricado el " + v.FechaFabricacion.ToShortDateString() + " (" + v.Precio + " euros)");
+        Console.WriteLine(v.Marca + " "
+          + v.Modelo + " fabricado el " + 
+          v.FechaFabricacion.ToShortDateString() + 
+          " (" + v.Precio + " euros)");
       }
       
       Console.ReadLine();
